@@ -104,6 +104,3 @@ using (var scope = app.Services.CreateScope())
     db.Database.Migrate();
 }
 ```
-
-## License
-Hiện chưa có license trong repo. Nếu muốn mình sẽ thêm file LICENSE (gợi ý: MIT).
