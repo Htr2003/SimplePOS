@@ -104,3 +104,4 @@ using (var scope = app.Services.CreateScope())
     db.Database.Migrate();
 }
 ```
+## License
